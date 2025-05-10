@@ -21,6 +21,10 @@ public class day_1{
         System.out.println("randomChar = " + randomChar);
         System.out.println("randomChar_2 = " + randomChar_2);
 
+        String random_string = randomStr + randomStr_final;
+
+        System.out.println("random_string = " + random_string);
+
         //learn escape characters
     }
 }
