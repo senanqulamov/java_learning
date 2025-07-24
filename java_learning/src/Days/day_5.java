@@ -1,4 +1,5 @@
-import java.awt.*;
+package Days;
+
 import java.util.Scanner;
 
 public class day_5 {

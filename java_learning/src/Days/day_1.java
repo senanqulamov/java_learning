@@ -1,3 +1,5 @@
+package Days;
+
 public class day_1{
 
     static String randomStr = "It's me";

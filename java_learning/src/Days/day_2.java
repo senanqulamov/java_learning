@@ -1,3 +1,5 @@
+package Days;
+
 import java.util.Scanner;
 
 public class day_2 {
@@ -13,7 +15,7 @@ public class day_2 {
 
             for (int i = 1; i <= user_number; i++) {
                 num += i;
-                System.out.print(num + ".");
+                System.out.print(num + "->");
             }
 
             System.out.println("The factorial is: " + num);

@@ -1,3 +1,5 @@
+package Days;
+
 public class day_3 {
     public static void main(String[] args) {
         int rand_1 = (int) (Math.random() * 50);
